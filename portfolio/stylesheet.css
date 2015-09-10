@@ -24,7 +24,7 @@ a {
 }
 .magic{
 	
-    
+    float:left;
     border-radius: 5px;
 	border: 2px solid #6495ED;
 	background-color: #BCD2EE;
