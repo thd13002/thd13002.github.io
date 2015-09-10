@@ -6,6 +6,8 @@
 	width: 120px;
 	margin: auto;
 	text-align: center;
+	position: fixed;
+    bottom: 0;
 }
 
 a {
@@ -30,6 +32,7 @@ a {
 	height: 50px;
 	width: 120px;
 	margin: auto;
+	text-align:left;
 }
 
 
