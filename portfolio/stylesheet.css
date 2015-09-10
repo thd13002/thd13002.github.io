@@ -1,4 +1,4 @@
-div {
+.facebook{
 	border-radius: 5px;
 	border: 2px solid #6495ED;
 	background-color: #BCD2EE;
@@ -19,6 +19,17 @@ a {
 	color:red;
 	font-family:impact;
 
+}
+.magic{
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
 }
 
 
