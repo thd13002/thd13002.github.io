@@ -12,8 +12,14 @@ a {
 	text-decoration: none;
 	color: #3D59AB;
 	font-family: Verdana, sans-serif;
-}
 
+}
+h3{
+	text-align:right;
+	color:red;
+	font-family:impact;
+	
+}
 
 
 span {
