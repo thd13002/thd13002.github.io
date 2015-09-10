@@ -13,6 +13,11 @@ a {
 	color: #3D59AB;
 	font-family: Verdana, sans-serif;
 }
+space {
+color: red;
+cursor: crosshair;
+text-align:right;
+}
 
 span {
 	font-weight: bold;
@@ -24,4 +29,5 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
+    cursor: crosshair;
 }
