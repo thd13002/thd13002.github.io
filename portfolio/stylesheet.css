@@ -53,7 +53,7 @@ body {
     
 }
 .animation{
-
+text-align: relative;
     width: 100px;
     height: 100px;
     background-color: red;
