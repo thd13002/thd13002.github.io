@@ -63,16 +63,16 @@ body {
     -webkit-animation-timing-function: linear;
     -webkit-animation-delay: 2s;
     -webkit-animation-iteration-count: infinite;
-    -webkit-animation-direction: alternate;
+    -webkit-animation-direction: normal;
 }
 
 
 @-webkit-keyframes example {
-    0%   {background-color:red; left:0px; top:-765px;}
-    25%  {background-color:yellow; left:1060px; top:-765px;}
+    0%   {background-color:red; left:0px; top:-780px;}
+    25%  {background-color:yellow; left:1060px; top:-780px;}
     50%  {background-color:blue; left:1060px; top:110px;}
     75%  {background-color:green; left:0px; top:110px;}
-    100% {background-color:red; left:0px; top:-765px;}
+    100% {background-color:red; left:0px; top:-780px;}
 }
 
 
