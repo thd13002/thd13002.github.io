@@ -68,8 +68,8 @@ body {
 text-align: relative;
 color:white;
 font-style:bold;
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAe1BMVEX/uN7////e3t4hId7/tNz/5fMAAN7c4N7j2N76vt7/s9z/xOPg4N7/9frJyd7/tt3r0N7/1evm5t4aGt5QUN7/+/3/9Przx97/u97/6PQAEd7z8/P/yua/i96/v/Ph297uzN5AQN790N7t4t73wd7r6/PMzN6/wfO/oObps7+VAAAB1UlEQVRYhe2Y63KDIBBGDdWqaEqSViutrem97/+EFTAswcXLxJmMU04mP9Rvz0jUgBtsBtjSAIFuh2oCL1xeWEQGISYMzUQxKixpCGC+1gjQclSID9NFf/j/XFhnAjZHyGRJ7RBmrJXN8ol4+8lcwnku4DpCpnFYIIAMuSi3Leb1SIEKFxqJWlSXhSGMqMDwsSbWPGLnyFIIxIksj0yh/dSyJCYdTiHRiUQkQi/USQk1hdS6ecRmWJlCkXBdlLRJBASQOxowsp2dIHLHMypUtwOJzbjYjo0xJGKbkPNITJxCgmEJMa4izDUuISTyKcI7gKHC/BsSX6PC/O4WSFHh4Q0Sr1OENydcwod7nViXkC8h/FHCvaAOLhc+/UpVYE0bFwhfKmwGukhoy1YjVBD3k9KcAudPCi4MmFqZyrPID4J3OfdaEdr9Y8vEx9D83RvW1DllmFUI5yxFJgiPO80nGq8gsDtOWKUaizVHejzh8Xg8Hs9iiJYJ0mbpdp6+k2rUsQxtBLE006S9g3iNQrWdeq2qkEPLg9vv1Y6aYWEEwt6L+oqF0P7sWqbwMzuELLRrTF/NdYNWNXU5XE9cyFIenddweNkJ2H5jA30wxxlmvZI988JlhH+kDTmiXbfmTwAAAABJRU5ErkJggg==");
     position:relative;
     -webkit-animation-name: example;
