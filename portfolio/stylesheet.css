@@ -68,11 +68,11 @@ body {
 
 
 @-webkit-keyframes example {
-    0%   {background-color:red; left:0px; top:-800px;}
-    25%  {background-color:yellow; left:1100px; top:-800px;}
-    50%  {background-color:blue; left:1100px; top:100px;}
-    75%  {background-color:green; left:0px; top:100px;}
-    100% {background-color:red; left:0px; top:-800px;}
+    0%   {background-color:red; left:0px; top:-750px;}
+    25%  {background-color:yellow; left:1050px; top:-750px;}
+    50%  {background-color:blue; left:1050px; top:120px;}
+    75%  {background-color:green; left:0px; top:120px;}
+    100% {background-color:red; left:0px; top:-7500px;}
 }
 
 
