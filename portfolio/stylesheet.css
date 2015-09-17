@@ -9,10 +9,7 @@
 	
     bottom: 0;
 }
-img{
-margin:auto;
-position:center;
-}
+
 
 a {
 	text-decoration: none;
@@ -45,7 +42,7 @@ span {
 	color: #ffffff;
 }
 body { 
-    background-image: url('http://www.hdwallsey.com/wp-content/uploads/2015/09/sky_background_elegant_wallpapers_image_7091.jpg');
+    background-image: url("http://www.hdwallsey.com/wp-content/uploads/2015/09/sky_background_elegant_wallpapers_image_7091.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
