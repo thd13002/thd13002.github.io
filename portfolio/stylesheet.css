@@ -53,8 +53,8 @@ body {
     
 }
 .pacman{
- width: 90px;
-    height: 90px;
+ width: 80px;
+    height: 80px;
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS4zSjK4Y44ZVGckVHuGYdB68ApA72fv5K2X8eYvsvBpT4MGjk");
     position:relative;
     -webkit-animation-name: pacman;
