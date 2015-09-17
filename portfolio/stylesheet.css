@@ -10,11 +10,8 @@
     bottom: 0;
 }
 
-em{
-	text-align: center;
-	border: 5px solid #9999FF;
-	border-radius:5px;
-}
+
+
 a {
 	text-decoration: none;
 	color: #3D59AB;
