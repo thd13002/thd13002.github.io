@@ -82,11 +82,11 @@ font-style:bold;
 
 
 @-webkit-keyframes example {
-    0%   {background-color:red; left:0px; top:-880px;}
-    25%  {background-color:yellow; left:1060px; top:-880px;}
-    50%  {background-color:blue; left:1060px; top:310px;}
-    75%  {background-color:green; left:0px; top:310px;}
-    100% {background-color:red; left:0px; top:-980px;}
+    0%   {background-color:red; left:0px; top:-830px;}
+    25%  {background-color:yellow; left:1060px; top:-830px;}
+    50%  {background-color:blue; left:1060px; top:300px;}
+    75%  {background-color:green; left:0px; top:300px;}
+    100% {background-color:red; left:0px; top:-830px;}
 }
 @-webkit-keyframes pacman {
     0%   {background-color:none; left:0px; top:-880px;}
