@@ -53,7 +53,7 @@ body {
     
 }
 .pacman{
- width: 900px;
+ width: 90px;
     height: 90px;
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS4zSjK4Y44ZVGckVHuGYdB68ApA72fv5K2X8eYvsvBpT4MGjk");
     position:relative;
@@ -82,8 +82,8 @@ font-style:bold;
 
 
 @-webkit-keyframes example {
-    0%   {background-color:red; left:0px; top:-980px;}
-    25%  {background-color:yellow; left:1060px; top:-980px;}
+    0%   {background-color:red; left:0px; top:-880px;}
+    25%  {background-color:yellow; left:1060px; top:-880px;}
     50%  {background-color:blue; left:1060px; top:310px;}
     75%  {background-color:green; left:0px; top:310px;}
     100% {background-color:red; left:0px; top:-980px;}
