@@ -10,8 +10,10 @@
     bottom: 0;
 }
 
-
-
+em{
+	text-align: center;
+	
+}
 a {
 	text-decoration: none;
 	color: #3D59AB;
