@@ -57,10 +57,12 @@ body {
     width: 100px;
     height: 100px;
     background-color: red;
-    -webkit-animation-name: example; 
-    -webkit-animation-duration: 4s; 
-    
-    -webkit-animation-iteration-count: 10;
+    -webkit-animation-name: example;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
 }
 
 
