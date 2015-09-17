@@ -53,14 +53,14 @@ body {
     
 }
 .pacman{
- width: 100px;
-    height: 100px;
+ width: 900px;
+    height: 90px;
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS4zSjK4Y44ZVGckVHuGYdB68ApA72fv5K2X8eYvsvBpT4MGjk");
     position:relative;
     -webkit-animation-name: pacman;
-    -webkit-animation-duration: 5s;
+    -webkit-animation-duration: 8s;
     -webkit-animation-timing-function: linear;
-    -webkit-animation-delay: 2s;
+    -webkit-animation-delay: .75s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-direction: normal;
 }
@@ -73,7 +73,7 @@ font-style:bold;
     background-color: red;
     position:relative;
     -webkit-animation-name: example;
-    -webkit-animation-duration: 5s;
+    -webkit-animation-duration: 8s;
     -webkit-animation-timing-function: linear;
     -webkit-animation-delay: none;
     -webkit-animation-iteration-count: infinite;
