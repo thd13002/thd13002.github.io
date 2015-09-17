@@ -54,6 +54,8 @@ body {
 }
 .animation{
 text-align: relative;
+color:white;
+font-style:bold;
     width: 100px;
     height: 100px;
     background-color: red;
