@@ -8,7 +8,7 @@ body {
 	background-color: #D6FFF2;
 }
 .headline-section{
-	color:#FF0000;
+	color:;
 	
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 hr {
-	color: red;
+	color: #FF0000;
 	margin: 50px 0;
 	height: 10px;
 	opacity: .6;
