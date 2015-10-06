@@ -26,7 +26,5 @@ hr {
 	opacity: .6;
 }
 .headline-main2{
-	 position: fixed;
-    bottom: 0;
-    left: 200;
+	 text-align:center;
 }
