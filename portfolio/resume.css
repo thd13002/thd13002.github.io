@@ -14,7 +14,7 @@ body {
 }
 .headline-main{
 	color:#BDBDBD;
-	font-family:Playfair+Display;
+	font-family:Playfair Display;
 }
 .container-resume {
 	background-color: #FFFFFF;
@@ -22,6 +22,20 @@ body {
 	margin: auto;
 	padding: 50px;
 }
+
+h3{
+	font-family:Playfair Display;
+}
+h3 span{
+	font-style:italic;
+	color:#BDBDBD;
+}
+strong span{
+	font-style:italic;
+	color:#BDBDBD;
+	font-size:10px;
+}
+
 
 hr { 
     display: block;
