@@ -4,6 +4,9 @@
   display: table;
   clear: both;
 }
+h2{
+	color:#FF0000;
+}
 
 body {
 	background-color: #FFFFFF;
