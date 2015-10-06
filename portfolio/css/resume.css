@@ -1,11 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Playfair+Display');
 
-}
-.group:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
+
 h2{
 	color:#FF0000;
 	font-weight:bold;
