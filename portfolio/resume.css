@@ -19,3 +19,9 @@ body {
 	padding: 50px;
 }
 
+hr {
+	color: black;
+	margin: 50px 0;
+	height: 10px;
+	opacity: .6;
+}
