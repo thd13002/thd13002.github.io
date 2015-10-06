@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: white;
+	background-color: #FFFFFF;
 }
 .headline-section{
 	color:#FF0000;
@@ -13,14 +13,14 @@ body {
 }
 
 .container-resume {
-	background-color: white;
+	background-color: #FFFFFF;
 	width: 800px;
 	margin: auto;
 	padding: 50px;
 }
 
 hr {
-	color: white;
+	color: black;
 	margin: 50px 0;
 	height: 10px;
 	opacity: .6;
