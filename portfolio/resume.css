@@ -25,3 +25,8 @@ hr {
 	height: 10px;
 	opacity: .6;
 }
+.headline-main2{
+	 position: fixed;
+    bottom: 0;
+    right: 0;
+}
