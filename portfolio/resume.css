@@ -13,14 +13,14 @@ body {
 }
 
 .container-resume {
-	background-color: white;
+	background-color: red;
 	width: 800px;
 	margin: auto;
 	padding: 50px;
 }
 
 hr {
-	color: ;
+	color: #FF0000;
 	margin: 50px 0;
 	height: 10px;
 	opacity: .6;
