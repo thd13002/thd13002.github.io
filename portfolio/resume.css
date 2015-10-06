@@ -39,11 +39,12 @@ h3{
 h3 span{
 	font-style:italic;
 	color:#BDBDBD;
+	font-size:20px;
 }
 strong span{
 	font-style:italic;
 	color:#A4A4A4;
-	font-size:10px;
+	
 	position: relative;
 	top:20px;
 }
