@@ -1,0 +1,96 @@
+@import url('http://fonts.googleapis.com/css?family=Playfair+Display');
+* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+h2{
+	color:#FF0000;
+	font-weight:bold;
+}
+a:hover {
+    color: #FF00FF;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+.headline-section{
+	color:#FF0000;
+	
+}
+.headline-main{
+	color:#BDBDBD;
+	font-family:Playfair Display;
+}
+.container-resume {
+	background-color: #FFFFFF;
+	width: 800px;
+	margin: auto;
+	padding: 50px;
+}
+li {
+	font-weight:normal;
+}
+
+h3{
+	font-family:Playfair Display;
+}
+h3 span{
+	font-style:italic;
+	color:#BDBDBD;
+	font-size:20px;
+}
+strong span{
+	font-style:italic;
+	color:#A4A4A4;
+	font-size:10px;
+	position: relative;
+	top:20px;
+}
+
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.headline-main2 {
+   position:absolute;
+left:270px;
+top:85px;
+font-family:Playfair Display;
+
+}
+.headline-sub{
+	text-align:center;
+}
