@@ -11,7 +11,10 @@ body {
 	color:#FF0000;
 	
 }
-
+.headline-main{
+	color:#BDBDBD;
+	font-family:Playfair Display;
+}
 .container-resume {
 	background-color: #FFFFFF;
 	width: 800px;
@@ -32,7 +35,7 @@ hr {
    position:absolute;
 left:270px;
 top:85px;
-color:#F2F2F2;
+font-family:Playfair Display;
 
 }
 .headline-sub{
