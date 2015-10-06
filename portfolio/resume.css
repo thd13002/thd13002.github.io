@@ -6,6 +6,10 @@
 }
 h2{
 	color:#FF0000;
+	font-weight:bold;
+}
+a:hover {
+    color: #FF00FF;
 }
 
 body {
@@ -24,6 +28,9 @@ body {
 	width: 800px;
 	margin: auto;
 	padding: 50px;
+}
+li {
+	font-weight:normal;
 }
 
 h3{
