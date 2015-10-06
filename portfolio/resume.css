@@ -29,6 +29,8 @@ hr {
     border-width: 1px;
 }
 .headline-main2 {
-    position: relative;
-    left: -100px;
+   position:absolute;
+left:50px;
+top:35px;
+color:red;
 }
