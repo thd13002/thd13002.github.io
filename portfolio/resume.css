@@ -1,5 +1,4 @@
-
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en" />
+@import url('http://fonts.googleapis.com/css?family=Playfair+Display');
 .group:after {
   content: "";
   display: table;
@@ -15,7 +14,7 @@ body {
 }
 .headline-main{
 	color:#BDBDBD;
-	font-family:Playfair Display;
+	font-family:Playfair+Display;
 }
 .container-resume {
 	background-color: #FFFFFF;
