@@ -1,12 +1,12 @@
 .facebook{
-	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
-	height: 50px;
-	width: 120px;
-	margin: auto;
-	text-align: center;
-	
+    border-radius: 5px;
+    border: 2px solid #6495ED;
+    background-color: #BCD2EE;
+    height: 50px;
+    width: 120px;
+    margin: auto;
+    text-align: center;
+    
     bottom: 0;
 }
 button{
@@ -31,38 +31,38 @@ button{
 }
 
 em{
-	text-align: center;
+    text-align: center;
 
 }
 a {
-	text-decoration: none;
-	color: #3D59AB;
-	font-family: Verdana, sans-serif;
+    text-decoration: none;
+    color: #3D59AB;
+    font-family: Verdana, sans-serif;
 
 }
 .aboutme{
-	text-align:right;
-	color:red;
-	font-family:impact;
+    text-align:right;
+    color:red;
+    font-family:impact;
 
 }
 .magic{
-	
+    
    
     border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
-	height: 50px;
-	width: 120px;
-	margin: auto;
-	text-align:left;
+    border: 2px solid #6495ED;
+    background-color: #BCD2EE;
+    height: 50px;
+    width: 120px;
+    margin: auto;
+    text-align:left;
 }
 
 
 span {
-	font-weight: bold;
-	font-size: 18px;
-	color: #ffffff;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
 }
 body { 
     background-color: #b0c4de;
