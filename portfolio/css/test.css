@@ -46,7 +46,15 @@ body {
     
 }
 
-.me{
- text-align:right;
+.me img{
+ text-align:left;
 }
-
+.me span{
+    
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.me{
+overflow: auto;    
+}
