@@ -11,13 +11,14 @@
 }
 button{
     width:340px;
-    height: 50px;
+    height: 50px; 
+    background-color: #0000FF;
 }
 
 .bar{
       border-radius: 5px;
   border: 2px solid #6495ED;
-  background-color: #BDBDBD;
+  background-color: #2E9AFE;
  
   margin: auto;
   text-align: center;
@@ -115,4 +116,16 @@ font-style:bold;
     100% {background-color:none; left:0px; top:-880px;}
 }
 
+.me img{
+ text-align:left;
+}
+.me em{
+    
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.me{
+overflow: auto;    
+}
 
