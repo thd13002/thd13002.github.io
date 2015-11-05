@@ -66,9 +66,11 @@ a {
 
 
 span {
-    font-weight: bold;
+   /* font-weight: bold;
     font-size: 18px;
-    color: #ffffff;
+    color: #ffffff;*/
+width:49%;
+height:630px;
 }
 body { 
     background-color: #b0c4de;
@@ -150,13 +152,18 @@ font-family: 'Fjalla One', sans-serif;
 @media screen and (max-width:700px) {
 #body,
 /*#bar{  float:none; width:100%;}*/
+#span{
+    width:80%;
 
+}
 }
 
 @media screen and (max-width:430px) {
 nav Li,
 nav a{ display:block;}
-
+#span{
+    width:100%;
+}
 }
 
 
