@@ -150,10 +150,10 @@ font-family: 'Fjalla One', sans-serif;
 @media screen and (max-width:700px) {
 #body,
 #bar{  float:none; width:100%;}
-.waiter{
+#waiter{
     width:80%;
 }
-.mercy{
+#mercy{
     width:80%;
 }
 }
@@ -161,15 +161,15 @@ font-family: 'Fjalla One', sans-serif;
 @media screen and (max-width:430px) {
 nav Li,
 nav a{ display:block;}
-.waiter{
+#waiter{
     width:100%;
 
 }
-.mercy{
+#mercy{
     width:0%;
 
 }
-.me img{
+#me img{
     width:100%;
 }
 }
