@@ -1,10 +1,39 @@
+.bar{
+  border-radius: 5px;
+  border: 2px solid #6495ED;
+  background-color: #BCD2EE;
+  height: 50px;
+  width: 120px;
+  margin: auto;
+  text-align: center;
+  
+    top: 0;
+}
 
-.city {
-    float: left;
-    margin: 5px;
-    padding: 15px;
-    width: 300px;
-    height: 300px;
-    border: 1px solid black;
-} 
-</style>
+em{
+  text-align: center;
+
+}
+a {
+  text-decoration: none;
+  color: #3D59AB;
+  font-family: Verdana, sans-serif;
+
+}
+
+
+
+
+span {
+  font-weight: bold;
+  font-size: 18px;
+  color: #ffffff;
+}
+body { 
+    background-color: #b0c4de;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    border:5px solid #CCFFCC;
+    
+}
