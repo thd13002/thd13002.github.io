@@ -1,3 +1,4 @@
+@import url(base.css);
 .facebook{
     border-radius: 5px;
     border: 2px solid #6495ED;
@@ -145,3 +146,11 @@ font-family: 'Fjalla One', sans-serif;
   text-align: center;
   width:99%;
 }
+
+@media screen and (max-width:700px) {
+#body,
+#bar{  float:none; width:100%;}
+}
+@media screen and (max-width:430px) {}
+
+@media screen and (max-width:700px) {}
