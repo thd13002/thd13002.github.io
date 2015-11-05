@@ -10,25 +10,12 @@
     top: 0;
 }
 
-em{
-  text-align: center;
-
-}
-a {
-  text-decoration: none;
-  color: #3D59AB;
-  font-family: Verdana, sans-serif;
-
-}
 
 
 
 
-span {
-  font-weight: bold;
-  font-size: 18px;
-  color: #ffffff;
-}
+
+
 body { 
     background-color: #b0c4de;
     background-repeat: no-repeat;
