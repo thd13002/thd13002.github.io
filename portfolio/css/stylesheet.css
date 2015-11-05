@@ -129,4 +129,12 @@ font-style:bold;
 .me{
 overflow: auto;    
 }
-
+.newsfeed{
+      border-radius: 5px;
+  border: 2px solid #6495ED;
+  
+ 
+  margin: auto;
+  text-align: center;
+  width:1400px;
+}
