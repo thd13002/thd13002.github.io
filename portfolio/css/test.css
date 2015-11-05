@@ -20,7 +20,7 @@ button{
 }
 
 em{
-  text-align: left;
+  float:right;
 
 }
 a {
@@ -47,6 +47,6 @@ body {
 }
 
 .me{
-  float:right;
+  float:left;
 }
 
