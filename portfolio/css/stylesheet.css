@@ -149,29 +149,14 @@ font-family: 'Fjalla One', sans-serif;
 
 @media screen and (max-width:700px) {
 #body,
-#bar{  float:none; width:100%;}
-#waiter{
-    width:80%;
-}
-#mercy{
-    width:80%;
-}
+/*#bar{  float:none; width:100%;}*/
+
 }
 
 @media screen and (max-width:430px) {
 nav Li,
 nav a{ display:block;}
-#waiter{
-    width:100%;
 
-}
-#mercy{
-    width:0%;
-
-}
-#me img{
-    width:100%;
-}
 }
 
 
