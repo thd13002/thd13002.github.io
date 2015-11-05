@@ -151,6 +151,10 @@ font-family: 'Fjalla One', sans-serif;
 #body,
 #bar{  float:none; width:100%;}
 }
-@media screen and (max-width:430px) {}
+@media screen and (max-width:430px) {
+nav Li,
+nav a{ display:block;}
 
-@media screen and (max-width:700px) {}
+}
+
+
