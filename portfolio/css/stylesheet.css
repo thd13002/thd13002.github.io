@@ -87,7 +87,7 @@ body {
     background-attachment: fixed;
     background-position: center; 
     border:5px solid #CCFFCC;
-    max-width:1000px;
+    max-width:1400px;
 }
 .pacman{
  width: 80px;
@@ -158,15 +158,25 @@ font-family: 'Fjalla One', sans-serif;
   width:99%;
 }
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:768px) {
 #body,
 #bar{  float:none; width:100%;}
-
+.waiter{height:auto;
+width: 50%;}
+.mercy{height:auto;
+width:50%;}
+}
 
 @media screen and (max-width:320px) {
 nav Li,
 nav a{ display:block;}
-
+.waiter{
+    height:auto;
+    width:100%;
+}
+.mercy{
+    display:none;
+}
 
 }
 
