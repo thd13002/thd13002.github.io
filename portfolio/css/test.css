@@ -1,3 +1,14 @@
+.facebook{
+  border-radius: 5px;
+  border: 2px solid #6495ED;
+  background-color: #BCD2EE;
+  height: 50px;
+  width: 120px;
+  margin: auto;
+  text-align: center;
+  
+    bottom: 0;
+}
 button{
     width:340px;
     height: 50px;
@@ -18,12 +29,40 @@ button{
     top: 0px;
 }
 
+em{
+  text-align: center;
+
+}
+a {
+  text-decoration: none;
+  color: #3D59AB;
+  font-family: Verdana, sans-serif;
+
+}
+.aboutme{
+  text-align:right;
+  color:red;
+  font-family:impact;
+
+}
+.magic{
+  
+   
+    border-radius: 5px;
+  border: 2px solid #6495ED;
+  background-color: #BCD2EE;
+  height: 50px;
+  width: 120px;
+  margin: auto;
+  text-align:left;
+}
 
 
-
-
-
-
+span {
+  font-weight: bold;
+  font-size: 18px;
+  color: #ffffff;
+}
 body { 
     background-color: #b0c4de;
     background-repeat: no-repeat;
@@ -32,3 +71,48 @@ body {
     border:5px solid #CCFFCC;
     
 }
+.pacman{
+ width: 80px;
+    height: 80px;
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS4zSjK4Y44ZVGckVHuGYdB68ApA72fv5K2X8eYvsvBpT4MGjk");
+    position:relative;
+    -webkit-animation-name: pacman;
+    -webkit-animation-duration: 8s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: .75s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+}
+.animation{
+text-align: relative;
+color:white;
+font-style:bold;
+    width: 70px;
+    height: 70px;
+    background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAe1BMVEX/uN7////e3t4hId7/tNz/5fMAAN7c4N7j2N76vt7/s9z/xOPg4N7/9frJyd7/tt3r0N7/1evm5t4aGt5QUN7/+/3/9Przx97/u97/6PQAEd7z8/P/yua/i96/v/Ph297uzN5AQN790N7t4t73wd7r6/PMzN6/wfO/oObps7+VAAAB1UlEQVRYhe2Y63KDIBBGDdWqaEqSViutrem97/+EFTAswcXLxJmMU04mP9Rvz0jUgBtsBtjSAIFuh2oCL1xeWEQGISYMzUQxKixpCGC+1gjQclSID9NFf/j/XFhnAjZHyGRJ7RBmrJXN8ol4+8lcwnku4DpCpnFYIIAMuSi3Leb1SIEKFxqJWlSXhSGMqMDwsSbWPGLnyFIIxIksj0yh/dSyJCYdTiHRiUQkQi/USQk1hdS6ecRmWJlCkXBdlLRJBASQOxowsp2dIHLHMypUtwOJzbjYjo0xJGKbkPNITJxCgmEJMa4izDUuISTyKcI7gKHC/BsSX6PC/O4WSFHh4Q0Sr1OENydcwod7nViXkC8h/FHCvaAOLhc+/UpVYE0bFwhfKmwGukhoy1YjVBD3k9KcAudPCi4MmFqZyrPID4J3OfdaEdr9Y8vEx9D83RvW1DllmFUI5yxFJgiPO80nGq8gsDtOWKUaizVHejzh8Xg8Hs9iiJYJ0mbpdp6+k2rUsQxtBLE006S9g3iNQrWdeq2qkEPLg9vv1Y6aYWEEwt6L+oqF0P7sWqbwMzuELLRrTF/NdYNWNXU5XE9cyFIenddweNkJ2H5jA30wxxlmvZI988JlhH+kDTmiXbfmTwAAAABJRU5ErkJggg==");
+    position:relative;
+    -webkit-animation-name: example;
+    -webkit-animation-duration: 8s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: none;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+}
+
+
+@-webkit-keyframes example {
+    0%   {background-color:red; left:0px; top:-810px;}
+    25%  {background-color:yellow; left:1060px; top:-810px;}
+    50%  {background-color:blue; left:1060px; top:240px;}
+    75%  {background-color:green; left:0px; top:240px;}
+    100% {background-color:red; left:0px; top:-810px;}
+}
+@-webkit-keyframes pacman {
+    0%   {background-color:none; left:0px; top:-880px;}
+    25%  {background-color:none; left:1060px; top:-880px;}
+    50%  {background-color:none; left:1060px; top:170px;}
+    75%  {background-color:none; left:0px; top:170px;}
+    100% {background-color:none; left:0px; top:-880px;}
+}
+
+
