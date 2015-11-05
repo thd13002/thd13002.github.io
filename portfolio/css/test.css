@@ -20,7 +20,7 @@ button{
 }
 
 em{
-  text-align: center;
+  text-align: left;
 
 }
 a {
@@ -43,7 +43,7 @@ body {
     background-attachment: fixed;
     background-position: center; 
     border:5px solid #CCFFCC;
-    
+    text-align: center;
 }
 
 
