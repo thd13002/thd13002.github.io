@@ -9,6 +9,17 @@
 	
     bottom: 0;
 }
+.bar{
+      border-radius: 5px;
+  border: 2px solid #6495ED;
+  background-color: #BCD2EE;
+ 
+  margin: auto;
+  text-align: center;
+  width:500px;
+  height:100px;
+  border:1px solid #000;"
+}
 
 em{
 	text-align: center;
