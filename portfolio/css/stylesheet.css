@@ -13,10 +13,10 @@ p{
     font-family: 'Fjalla One', sans-serif;
 }
 button{
-    width:33%;
-    height: 5%; 
+    width:24%;
+    height: 50px; 
     background-color: #0000FF;
-    font-size:4%;
+    font-size:40px;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -28,7 +28,7 @@ button{
   margin: auto;
   text-align: center;
   width:100%;
-  height:10%;
+  height:100px;
   border:1px solid #000;"
   position: absolute;
     
@@ -57,8 +57,8 @@ a {
     border-radius: 5px;
     border: 2px solid #6495ED;
     background-color: #BCD2EE;
-    height: 5%;
-    width: 12%;
+    height: 50px;
+    width: 120px;
     margin: auto;
     text-align:left;
 }
@@ -66,7 +66,7 @@ a {
 
 span {
     font-weight: bold;
-    font-size: 2%;
+    font-size: 18px;
     color: #ffffff;
 }
 body { 
@@ -75,8 +75,7 @@ body {
     background-attachment: fixed;
     background-position: center; 
     border:5px solid #CCFFCC;
-    max-width: 1410px;
-    
+    max-width:1400px;
 }
 .pacman{
  width: 80px;
@@ -129,8 +128,8 @@ font-style:bold;
 .me em{
     
     float: left;
-    margin-top: 1%;
-    margin-left: 1%;
+    margin-top: 10px;
+    margin-left: 10px;
     text-align:left;
 }
 .me{
@@ -141,7 +140,7 @@ font-family: 'Fjalla One', sans-serif;
       border-radius: 5px;
   border: 2px solid #6495ED;
   
- 
+ font-family: 'Fjalla One', sans-serif;
   margin: auto;
   text-align: center;
   width:100%;
