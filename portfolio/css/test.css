@@ -19,10 +19,7 @@ button{
     top: 0px;
 }
 
-em{
- 
 
-}
 a {
   text-decoration: none;
   color: #3D59AB;
@@ -49,7 +46,7 @@ body {
 .me img{
  text-align:left;
 }
-.me span{
+.me em{
     
     float: left;
     margin-top: 10px;
