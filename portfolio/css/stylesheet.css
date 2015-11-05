@@ -133,7 +133,8 @@ font-style:bold;
     text-align:left;
 }
 .me{
-overflow: auto;    
+overflow: auto;  
+font-family: 'Fjalla One', sans-serif;  
 }
 .newsfeed{
       border-radius: 5px;
