@@ -3,14 +3,14 @@ button{
     width:340px;
     height: 50px;
     background-color: #0000FF;
-    color:#0000FF;
+   
 }
 
 .bar{
       border-radius: 5px;
   border: 2px solid #6495ED;
   background-color: #2E9AFE;
- color:#2E9AFE;
+ 
   margin: auto;
   text-align: center;
   width:1400px;
@@ -36,14 +36,13 @@ span {
   font-size: 18px;
   color: #ffffff;
 }
-body { 
+/*body { 
     background-color: #b0c4de;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-    border:5px solid #CCFFCC;
-    
-}
+    border:5px solid #CCFFCC;   
+} */
 
 .me img{
  text-align:left;
