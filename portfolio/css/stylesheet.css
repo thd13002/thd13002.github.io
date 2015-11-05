@@ -17,18 +17,10 @@ button{
     width:24%;
     height: 50px; 
     background-color: #0000FF;
-    font-size:40%;
+    font-size:50%;
     font-family: 'Source Sans Pro', sans-serif;
 }
-.waiter{
-    width:49%;
-height:630px;
-}
 
-.mercy{
-    width:49%;
-height:630px;
-}
 
 .bar{
       border-radius: 5px;
@@ -161,22 +153,13 @@ font-family: 'Fjalla One', sans-serif;
 @media screen and (max-width:768px) {
 #body,
 #bar{  float:none; width:100%;}
-.waiter{height:auto;
-width: 50%;}
-.mercy{height:auto;
-width:50%;}
+
 }
 
 @media screen and (max-width:320px) {
 nav Li,
 nav a{ display:block;}
-.waiter{
-    height:auto;
-    width:100%;
-}
-.mercy{
-    display:none;
-}
+
 
 }
 
