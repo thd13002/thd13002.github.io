@@ -42,6 +42,13 @@ ul{
   list-style: none;
 
 }
+ul.social li{
+  display:inline;
+
+}
+ul.social.li img{
+  height:50px;
+}
 .images{
 
   float:left;
