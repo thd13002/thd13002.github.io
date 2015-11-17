@@ -73,9 +73,9 @@ font-family: 'Fjalla One', sans-serif;
 }
 
 @media screen and (max-width:768px) {
-#body,
-#bar{  float:none; width:100%;}
-#span{display:none;}
+#body
+
+
 }
 
 @media screen and (max-width:320px) {
@@ -85,3 +85,7 @@ nav a{ display:block;}
 
 }
 
+@media screen and (max-width:1000px){
+#container-homepage{width:1000px;}
+
+}
