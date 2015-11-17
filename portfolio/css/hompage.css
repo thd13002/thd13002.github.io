@@ -132,15 +132,28 @@ font-family: 'Fjalla One', sans-serif;
   width:99%;
 }
 
-@media screen and (max-width:768px) {
-#body
+@media screen and (max-width:320px) {
+body{
+  position: absolute;
+}
 
 
 }
 
 @media screen and (max-width:320px) {
-nav Li,
-nav a{ display:block;}
+  header{
+    position: absolute;
+  }
+nav ul, nav:active ul{ display:none;
+position:absolute;
+padding:20px;
+background:blue;
+border:1px solid white;
+right:20px;
+top:60px;
+width:50%;
+border-radius: 2px 0 2px 2px;}
+
 
 
 }
