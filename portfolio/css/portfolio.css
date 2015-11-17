@@ -16,8 +16,24 @@ header{
   z-index:100;
   opacity:0.90;
 }
+h3{
+  line-height:110%;
+  padding:5% 0;
+}
+footer{
+  background: #333333;
+  width:100%;
+  overflow:hidden;
+  opacity:0.90;
+}
+footer p, footer h3{
+  color:#FFF;
 
-
+}
+footer p a {
+  color:#FFF;
+  text-decoration: none;
+}
 nav{
   float:right;
   padding: 35px 20px 20px 0;
