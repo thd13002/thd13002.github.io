@@ -16,6 +16,25 @@ p{
 *{border:0;
 margin:0;
 padding:0;}
+h3{
+  line-height:110%;
+  padding:5% 0;
+}
+footer{
+  background: #333333;
+  width:100%;
+  overflow:hidden;
+  opacity:0.90;
+  text-align:center;
+}
+footer p, footer h3{
+  color:#FFF;
+
+}
+footer p a {
+  color:#FFF;
+  text-decoration: none;
+}
 
 header{
   background: #405580;
