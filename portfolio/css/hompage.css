@@ -36,6 +36,20 @@ footer p a {
   color:#FFF;
   text-decoration: none;
 }
+ul.social li{
+  display:inline;
+
+}
+ul.social.li img{
+  height:50px;
+}
+.images{
+
+  float:left;
+  padding:20px;
+ 
+
+}
 nav{
   float:right;
   padding: 35px 20px 20px 0;

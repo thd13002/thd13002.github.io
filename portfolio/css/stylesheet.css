@@ -20,6 +20,20 @@ h3{
   line-height:110%;
   padding:5% 0;
 }
+ul.social li{
+  display:inline;
+
+}
+ul.social.li img{
+  height:50px;
+}
+.images{
+
+  float:left;
+  padding:20px;
+ 
+
+}
 footer{
   background: #333333;
   width:100%;
