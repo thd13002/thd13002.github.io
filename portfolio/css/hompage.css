@@ -38,7 +38,7 @@ nav ul li{
 .current{
   color:white;
   text-decoration: underline;
-  
+
 }
 #menu-icon{
   display:hidden;
@@ -51,6 +51,14 @@ nav ul li{
   margin: auto;
    
 }
+#doc{
+  margin:40px 0;
+}
+#content{
+  margin:0 auto;
+  max-width: 1140px;
+}
+
 
 img{
   text-align: center;
