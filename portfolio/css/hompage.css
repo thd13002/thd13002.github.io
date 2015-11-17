@@ -22,7 +22,10 @@ button{
     font-size:50%;
     font-family: 'Source Sans Pro', sans-serif;
 }
-
+nav{
+  float:right;
+  padding: 35px 20px 20px 0;
+}
 
 .container-homepage{
   background-color: blue;
