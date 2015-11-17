@@ -26,7 +26,19 @@ nav{
   float:right;
   padding: 35px 20px 20px 0;
 }
+ul{
+  list-style: none;
 
+}
+nav ul li{
+  display:inline-block;
+  float:left;
+}
+#menu-icon{
+  display:hidden;
+  width:40px;
+  height:40px;
+}
 .container-homepage{
   background-color: blue;
   width: 100%;
