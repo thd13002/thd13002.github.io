@@ -13,28 +13,47 @@
 p{
     font-family: 'Fjalla One', sans-serif;
 }
-button{
-    width:24%;
-    height: 50px; 
-    background-color: #0000FF;
-    font-size:50%;
-    font-family: 'Source Sans Pro', sans-serif;
-}
+*{border:0;
+margin:0;
+padding:0;}
 
-
-.bar{
-      border-radius: 5px;
-  border: 2px solid #6495ED;
-  background-color: #2E9AFE;
- 
-  margin: auto;
-  text-align: center;
+header{
+  background: #405580;
   width:100%;
-  height:100px;
-  border:1px solid #000;"
-  position: absolute;
-    
-    top: 0px;
+  height: 86px;
+  position: fixed;
+  top:0;
+  left:0;
+  z-index:100;
+  opacity:0.90;
+}
+nav{
+  float:right;
+  padding: 35px 20px 20px 0;
+}
+ul{
+  list-style: none;
+
+}
+nav ul li{
+  display:inline-block;
+  float:left;
+  padding:10px;
+}
+#menu-icon{
+  display:hidden;
+  width:40px;
+  height:40px;
+  background: url(http://www.w3newbie.com/wp-content/uploads/icon.png) center;
+}
+a:hover#menu-icon{
+border-radius: 4px 4px 0 0;
+}
+.container-homepage{
+  background-color: blue;
+  width: 100%;
+  margin: auto;
+   
 }
 
 em{
@@ -64,7 +83,10 @@ a {
     margin: auto;
     text-align:left;
 }
-
+a:hover{
+  color:white;
+  text-decoration: underline;
+}
 
 span {
    /* font-weight: bold;
@@ -150,16 +172,41 @@ font-family: 'Fjalla One', sans-serif;
   width:99%;
 }
 
-@media screen and (max-width:768px) {
-#body,
-#bar{  float:none; width:100%;}
-#span{display:none;}
-}
 
 @media screen and (max-width:320px) {
-nav Li,
-nav a{ display:block;}
+body{
+  position: absolute;
+}
 
+
+}
+
+@media screen and (max-width:740px) {
+  header{
+    position: absolute;
+  }
+  #menu-icon{
+    display:inline-block;
+  }
+nav ul, nav:active ul{ display:none;
+position:absolute;
+padding:20px;
+background:blue;
+border:1px solid white;
+right:20px;
+top:60px;
+width:50%;
+border-radius: 2px 0 2px 2px;}
+nav li{
+  text-align: center;
+  width:100%;
+  padding:10px 0;
+  margin:0;
+
+}
+nav:hover ul{
+  display: block;
+}
 
 }
 
