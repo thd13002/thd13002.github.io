@@ -148,6 +148,9 @@ body{
   header{
     position: absolute;
   }
+  #menu-icon{
+    display:inline-block;
+  }
 nav ul, nav:active ul{ display:none;
 position:absolute;
 padding:20px;
