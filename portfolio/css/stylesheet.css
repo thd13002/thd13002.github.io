@@ -82,12 +82,7 @@ nav ul li{
 a:hover#menu-icon{
 border-radius: 4px 4px 0 0;
 }
-.container-homepage{
-  background-color: blue;
-  width: 100%;
-  margin: auto;
-   
-}
+
 
 em{
     text-align: center;
