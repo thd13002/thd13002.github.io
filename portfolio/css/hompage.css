@@ -130,7 +130,7 @@ body {
     background-attachment: fixed;
     background-position: center; 
     border:5px solid #CCFFCC;
-    max-width:1400px;
+    max-width:100%;
 }
 
 .me img{
