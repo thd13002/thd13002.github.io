@@ -161,14 +161,19 @@ font-family: 'Fjalla One', sans-serif;
   height:auto;  
   border-radius: 5px;
   width:30%;
-  
   margin:auto;
 }
-@media screen and (max-width:320px) {
+.slides img{
+  height:auto;  
+  border-radius: 5px;
+  width:100%;
+  
+}
+@media screen and (max-width:400px) {
 body{
   position: absolute;
 }
-.slides{
+.slides {
   min-width:100%;
 }
 

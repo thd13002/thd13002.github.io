@@ -113,14 +113,11 @@ font-family:Playfair Display;
 	text-align:center;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:400px) {
 body{
   position: absolute;
 }
-p{
-    width:99%;
-    padding:1%;
-}
+
 
 
 @media screen and (max-width:740px) {
