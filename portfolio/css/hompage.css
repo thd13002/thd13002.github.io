@@ -158,9 +158,9 @@ font-family: 'Fjalla One', sans-serif;
   width:99%;
 }
 .slides{
-  height:400px;  
+  height:auto;  
   border-radius: 5px;
-  width:25%;
+  width:30%;
   
   margin:auto;
 }
@@ -169,7 +169,7 @@ body{
   position: absolute;
 }
 .slides{
-  min-width:200px;
+  min-width:100%;
 }
 
 }
