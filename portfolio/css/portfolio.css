@@ -51,14 +51,7 @@ ul.social li{
 ul.social.li img{
   height:50px;
 }
-.images{
 
-  float:left;
-  padding:20px;
-width:33.33%;
-height:260px;
-
-}
 nav ul li{
   display:inline-block;
   float:left;
@@ -93,8 +86,19 @@ border-radius: 4px 4px 0 0;
   max-width: 1140px;
   width:33.33;
 }
-
-
+.content ul li img{
+  display:inline-block;
+  min-width:300px;
+  padding:10px;
+  margin:auto;
+  width:50%;
+  
+}
+.content{
+  float:right;
+  text-align:center;
+  font-size:30px;
+}
 
 
 
