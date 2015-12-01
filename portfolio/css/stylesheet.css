@@ -190,15 +190,6 @@ font-style:bold;
 overflow: auto;  
 font-family: 'Fjalla One', sans-serif;  
 }
-.newsfeed{
-      border-radius: 5px;
-  border: 2px solid #6495ED;
-  
- font-family: 'Fjalla One', sans-serif;
-  margin: auto;
-  text-align: center;
-  width:99%;
-}
 
 
 @media screen and (max-width:320px) {
