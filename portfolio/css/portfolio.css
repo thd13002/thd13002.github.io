@@ -55,7 +55,8 @@ ul.social.li img{
 
   float:left;
   padding:20px;
- 
+width:33.33%;
+height:260px;
 
 }
 nav ul li{
@@ -90,6 +91,7 @@ border-radius: 4px 4px 0 0;
 #content{
   margin:0 auto;
   max-width: 1140px;
+  width:33.33;
 }
 
 
