@@ -27,9 +27,10 @@ body {
 }
 .container-resume {
 	background-color: #FFFFFF;
-	width: 800px;
+	width: 100%;
 	margin: auto;
-	padding: 50px;
+	
+
 }
 a:hover{
   color:white;
