@@ -192,7 +192,7 @@ font-family: 'Fjalla One', sans-serif;
 }
 
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:320px) {
 body{
   position: absolute;
 }
